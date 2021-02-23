@@ -1,0 +1,3 @@
+[submodule "SequenceAligner"]
+	path = SequenceAligner
+	url = https://github.com/inuradz/SequenceAligner.git
